@@ -1,10 +1,9 @@
 import logojumbo from '../images/woodstock-full.png';
-import NavBar from './NavBar';
 
-const Jumbotron = () => {
+const Jumbotron = (props) => {
     return (
         <div className="jumbotron jumbotron-fluid">
-            <NavBar/>
+            {props.children}
             <div className="container welcome">
                 <img src={logojumbo} alt=""/>
             </div>
