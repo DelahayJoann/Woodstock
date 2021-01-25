@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Woodstock/static/css/main.31f8cfd7.chunk.css",
+    "main.js": "/Woodstock/static/js/main.ea0a8ed5.chunk.js",
+    "main.js.map": "/Woodstock/static/js/main.ea0a8ed5.chunk.js.map",
+    "runtime-main.js": "/Woodstock/static/js/runtime-main.0ab27b80.js",
+    "runtime-main.js.map": "/Woodstock/static/js/runtime-main.0ab27b80.js.map",
+    "static/js/2.cdaa1c15.chunk.js": "/Woodstock/static/js/2.cdaa1c15.chunk.js",
+    "static/js/2.cdaa1c15.chunk.js.map": "/Woodstock/static/js/2.cdaa1c15.chunk.js.map",
+    "static/js/3.6e69ed06.chunk.js": "/Woodstock/static/js/3.6e69ed06.chunk.js",
+    "static/js/3.6e69ed06.chunk.js.map": "/Woodstock/static/js/3.6e69ed06.chunk.js.map",
+    "index.html": "/Woodstock/index.html",
+    "static/css/main.31f8cfd7.chunk.css.map": "/Woodstock/static/css/main.31f8cfd7.chunk.css.map",
+    "static/js/2.cdaa1c15.chunk.js.LICENSE.txt": "/Woodstock/static/js/2.cdaa1c15.chunk.js.LICENSE.txt",
+    "static/media/img1.fac2b127.png": "/Woodstock/static/media/img1.fac2b127.png",
+    "static/media/img2.bb6045ba.png": "/Woodstock/static/media/img2.bb6045ba.png",
+    "static/media/team.f488e055.jpg": "/Woodstock/static/media/team.f488e055.jpg",
+    "static/media/App.css": "/Woodstock/static/media/wood-planks.f707ba94.jpg",
+    "static/media/woodstock-full.a01036c9.png": "/Woodstock/static/media/woodstock-full.a01036c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ab27b80.js",
+    "static/js/2.cdaa1c15.chunk.js",
+    "static/css/main.31f8cfd7.chunk.css",
+    "static/js/main.ea0a8ed5.chunk.js"
+  ]
+}
