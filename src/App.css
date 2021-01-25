@@ -1,38 +1,142 @@
-.App {
+.header {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.section{
+  padding: 7%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.welcome{
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  height: 80%;
+}
+
+.jumbotron{
+  text-align: center;
+  align-items: center;
+  padding-top: 0;
+  background-image: url('./images/wood-planks.jpg'), url('./images/wood-logs.jpg');
+  height: 50vh;
+}
+
+
+.navbar-brand img{
+  max-height: 30px;
+}
+.navbar{
+  justify-content: space-between;
+  justify-items:right;
+}
+.navbar a{
+  color: white;
+}
+.navbar-collapse{
+  flex-grow: 0;
+  width: 50%;
+}
+.navbar-nav{
+  width: 100%;
+  justify-content: space-around;
+}
+.navbar-light .navbar-nav .nav-link {
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.img1{
+  box-shadow: -80px -38px 0 0 #e4d7b4;
+  max-width: 300px;
+  max-height: 400px;
+}
+.alignimage{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.about-title{
+  border-left: 7px solid #e4d7b4;
+  font-weight: 400;
+  width: 60%;
+}
+.about-titleteam{
+  font-weight: 600;
+  width: 60%;
+}
+.about-text{
+  color: grey;
+  width: 60%;
+}
+.team-text{
+  width: 60%;
+}
+.link{
+  border: 2px solid #e4d7b4;
+  padding: 0.8em 2em 0.8em 2em;
+  font-size: larger;
+  position: absolute;
+  left: -2em;
+}
+.link2{
+  border: 2px solid #e4d7b4;
+  padding: 0.8em 2em 0.8em 2em;
+  font-size: larger;
+}
+.link::before{
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 90%;
+  border-top: 2px solid black;
+  background: #000;
+  width: 70%;
+  transform: translateY(-50%);
+}
+.teamlink{
+  border: 2px solid #e4d7b4;
+  padding: 0.8em 2em 0.8em 2em;
+  font-size: larger;
+  position: absolute;
+  left: -2em;
+  color: white;
+}
+.teamlink::before{
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 90%;
+  border-top: 2px solid rgb(255, 255, 255);
+  background: #000;
+  width: 70%;
+  transform: translateY(-50%);
+}
+.linkleft{
+  border: 2px solid #e4d7b4;
+  padding: 0.8em 2em 0.8em 2em;
+  font-size: larger;
+  position: absolute;
+  left: 5.5em;
+}
+.linkleft::before{
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 90%;
+  border-top: 2px solid black;
+  background: #000;
+  width: 70%;
+  transform: translateY(-50%);
+}
+
+.text-block{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.team{
+  background-color: rgb(44, 41, 41);
+  color: white;
 }
