@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Woodstock/static/css/main.31f8cfd7.chunk.css",
-    "main.js": "/Woodstock/static/js/main.ea0a8ed5.chunk.js",
-    "main.js.map": "/Woodstock/static/js/main.ea0a8ed5.chunk.js.map",
+    "main.js": "/Woodstock/static/js/main.c46e586c.chunk.js",
+    "main.js.map": "/Woodstock/static/js/main.c46e586c.chunk.js.map",
     "runtime-main.js": "/Woodstock/static/js/runtime-main.0ab27b80.js",
     "runtime-main.js.map": "/Woodstock/static/js/runtime-main.0ab27b80.js.map",
     "static/js/2.cdaa1c15.chunk.js": "/Woodstock/static/js/2.cdaa1c15.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.0ab27b80.js",
     "static/js/2.cdaa1c15.chunk.js",
     "static/css/main.31f8cfd7.chunk.css",
-    "static/js/main.ea0a8ed5.chunk.js"
+    "static/js/main.c46e586c.chunk.js"
   ]
 }
